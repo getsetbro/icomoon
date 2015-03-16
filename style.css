@@ -1,0 +1,70 @@
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+}
+
+.icon-ambulance {
+	width: 1.462890625em;
+}
+
+.icon-destination {
+	width: 0.6767578125em;
+}
+
+.icon-engine {
+	width: 1.4326171875em;
+}
+
+.icon-firetruck-siren-off {
+	width: 0.8583984375em;
+}
+
+.icon-firetruck-siren-on {
+	width: 0.9130859375em;
+}
+
+.icon-gauge {
+	width: 2.0927734375em;
+}
+
+.icon-inspection {
+	width: 0.625em;
+}
+
+.icon-plugged {
+	width: 0.3359375em;
+}
+
+.icon-pumper {
+	width: 1.0615234375em;
+}
+
+.icon-seatbelted {
+	width: 0.830078125em;
+}
+
+.icon-seatbelts {
+	width: 3.76953125em;
+}
+
+.icon-startflag {
+	width: 1.025390625em;
+}
+
+.icon-tire {
+	width: 0.9990234375em;
+}
+
+.icon-toggle-on {
+	width: 2.666015625em;
+}
+
+.icon-tools {
+	width: 1.00390625em;
+}
+
+.icon-unplugged {
+	width: 0.3359375em;
+}
